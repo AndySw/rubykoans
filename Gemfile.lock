@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    observr (1.0.5)
+    rake (13.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  observr (~> 1.0, >= 1.0.5)
+  rake (~> 13.0)
+
+BUNDLED WITH
+   1.17.2
